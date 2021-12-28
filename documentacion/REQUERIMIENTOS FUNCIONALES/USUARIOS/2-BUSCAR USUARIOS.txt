@@ -1,0 +1,5 @@
+BUSQUEDA DE USUARIOS
+ACTOR: ADMINISTRADOR DEL SISTEMA
+FECHA 12-09-2021
+
+1-Mostrar listado de usuario creados ---listo
