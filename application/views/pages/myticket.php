@@ -115,6 +115,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       <textarea  class="form-control form-control-sm input_description" name="input_description" id="input_description" cols="20" rows="5" maxlength="200"></textarea>
                     </div>
                   </div>
+
+                  
+
                   
                 <div class=" row mt-2">
                     <label for="inputPassword3" class="col-xl-3 col-form-label">Usuario:</label>
